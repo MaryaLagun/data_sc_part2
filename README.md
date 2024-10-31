@@ -26,6 +26,11 @@ R²: 0.9986
 ![result_fact_2006](https://github.com/user-attachments/assets/168f4c9c-3490-446e-93ee-35f73cd6b7ab)
 
 По итогам выявлена большая зависимость между признаками    
-![matr_corr](https://github.com/user-attachments/assets/f4ad6e20-b7cc-44e7-9836-2ebf97f73317)
+![matr_corr](https://github.com/user-attachments/assets/f4ad6e20-b7cc-44e7-9836-2ebf97f73317)  
+
+Анализ остатов имеет вид   
+
+![ost_2006](https://github.com/user-attachments/assets/011fac2b-c029-4991-b28a-abc6310ade3e)
+
 
 
