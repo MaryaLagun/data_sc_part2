@@ -34,7 +34,7 @@ R²: 0.9986
 
 ![ost_2006](https://github.com/user-attachments/assets/011fac2b-c029-4991-b28a-abc6310ade3e)  
 
-Ошибки предсказанию имеют нормальное распределение   
+Ошибки предсказания имеют нормальное распределение   
 
 ![rasp_2006](https://github.com/user-attachments/assets/0b47ab23-f782-4e5d-a1a9-e47ccffd87e0)  
 
