@@ -1,0 +1,25 @@
+D:\data_science_24_part2\data_science_part2\lab33\Chat-bot22\.venv\Scripts\python.exe D:\data_science_24_part2\data_science_part2\lab33\Chat-bot22\train.py 
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\Marya.Lagun\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package punkt_tab to
+[nltk_data]     C:\Users\Marya.Lagun\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt_tab is already up-to-date!
+23 patterns
+7 tags: ['жалобы', 'заполнение', 'квитанция', 'настройки', 'отправка', 'подпись', 'приветствие']
+69 unique stemmed words: [',', 'блин', 'буду', 'быть', 'веб-порталом', 'взять', 'все', 'где', 'дайте', 'для', 'должны', 'жаловатся', 'жаловаться', 'заполнению', 'заполнить', 'и', 'или', 'к', 'как', 'какие', 'квитанцию', 'ключи', 'места', 'настроить', 'настройки', 'начать', 'не', 'ненавижу', 'ничего', 'обеспечения', 'обновить', 'отправить', 'отчет', 'отчета', 'отчетность', 'перейти', 'по', 'подписи', 'получить', 'помогите', 'понятно', 'понять', 'привет', 'приеду', 'принят', 'произведены', 'просмотреть', 'работает', 'работу', 'работы', 'рабочего', 'разберусь', 'руководителя', 'с', 'сам', 'сдать', 'сижу', 'сломалось', 'счас', 'телефое', 'третий', 'уже', 'форме', 'цифровой', 'час', 'что', 'электронной', 'эцп', 'я']
+69 7
+Epoch [100/1000], Loss: 0.8690
+Epoch [200/1000], Loss: 0.2082
+Epoch [300/1000], Loss: 0.2056
+Epoch [400/1000], Loss: 0.0221
+Epoch [500/1000], Loss: 0.0096
+Epoch [600/1000], Loss: 0.0054
+Epoch [700/1000], Loss: 0.0025
+Epoch [800/1000], Loss: 0.0024
+Epoch [900/1000], Loss: 0.0027
+Epoch [1000/1000], Loss: 0.0011
+final loss: 0.0011
+training complete. file saved to data.pth
+
+Process finished with exit code 0
