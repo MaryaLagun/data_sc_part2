@@ -51,4 +51,7 @@ chainlit run app.py
 Чтобы выйти из чата, введите "выход" или остановите сервер ctrl+c .
 
 
+![result](https://github.com/user-attachments/assets/b43b01b7-307f-4de0-a457-fe6ca5033aaa)
+
+
 
